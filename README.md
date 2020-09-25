@@ -25,9 +25,10 @@
 |  5-6  | Fundamentos de Ingeniería en Software | Fundamentos de Ingeniería en Software | Fundamentos de Ingeniería en Software | Fundamentos de Ingeniería en Software |                              |
 |  6-7  |          Sistema Operativos I         |          Sistema Operativos I         |          Sistema Operativos I         |          Sistema Operativos I         |                              |
 
-4. **Redes Sociales**
+4. **Contacto:**
 - [https://www.facebook.com/Sr.Melchapo](https://www.facebook.com/Sr.Melchapo)
 - [https://www.instagram.com/sr.melchapo/](https://www.instagram.com/sr.melchapo/)
+- Correo: luis.melchor18@tectijuana.edu.mx
 
 <!--
 **MelchorLuis/MelchorLuis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
