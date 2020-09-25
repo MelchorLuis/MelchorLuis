@@ -1,6 +1,6 @@
 # Muy buenas a todos! ♥
 ## Un placer, mi nombre es Luis Angel Melchor Cancino, estudiante de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana, México :student::mexico:
-### Amante de los animales jeje :cat::hamster::dog::rabbit:
+### Amante de los animales, jeje :cat::hamster::dog::rabbit:
 ![](https://media1.tenor.com/images/758f88d49d8e2b31fd46b420d8f0fbe5/tenor.gif?itemid=14462866)
 
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
