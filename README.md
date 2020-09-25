@@ -7,9 +7,9 @@
 
 ![](https://images.cooltext.com/5466535.png)
 
-1. Orgullosamente del municipio de Zihuatanejo, en el estado de Guerrero:ocean:
+1. **Orgullosamente del municipio de Zihuatanejo, en el estado de Guerrero:ocean:**
 
-2. Estoy aprendiendo a usar GitHub, mis primeras impresiones han sido muy buenas, espero seguir así y acoplarme a este herramienta para desarrolladores de software:hugs:
+2. **Estoy aprendiendo a usar GitHub, mis primeras impresiones han sido muy buenas, espero seguir así y acoplarme a este herramienta para desarrolladores de software:hugs:**
 
 3. **Horario actual de clases en 5to Semestre:mortar_board::**
 
