@@ -11,19 +11,17 @@
 
 2. **Estoy aprendiendo a usar GitHub, mis primeras impresiones han sido muy buenas, espero seguir así y acoplarme a este herramienta para desarrolladores de software:hugs:**
 
-3. **Horario actual de clases en 5to Semestre:mortar_board::**
+3. **Horario actual de clases en 6to Semestre:mortar_board::**
 
-|  Hora |                 Lunes                 |                 Martes                |               Miercoles               |                 Jueves                |            Viernes           |
-|:-----:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:-------------------------------------:|:----------------------------:|
-| 10-11 |      Fundamentos de Base de Datos     |      Fundamentos de Base de Datos     |      Fundamentos de Base de Datos     |      Fundamentos de Base de Datos     | Fundamentos de Base de Datos |
-| 11-12 |                                       |                                       |                                       |                                       |                              |
-|  12-1 |   Tópicos Avanzados de Programación   |   Tópicos Avanzados de Programación   |                                       |   Tópicos Avanzados de Programación   |                              |
-|  1-2  |                                       |   Tópicos Avanzados de Programación   |                                       |   Tópicos Avanzados de Programación   |                              |
-|  2-3  |         Lenguajes de Interfaz         |         Lenguajes de Interfaz         |         Lenguajes de Interfaz         |         Lenguajes de Interfaz         |                              |
-|  3-4  |              Graficación              |              Graficación              |              Graficación              |              Graficación              |                              |
-|  4-5  |   Fundamentos de Telecomunicaciones   |   Fundamentos de Telecomunicaciones   |   Fundamentos de Telecomunicaciones   |   Fundamentos de Telecomunicaciones   |                              |
-|  5-6  | Fundamentos de Ingeniería en Software | Fundamentos de Ingeniería en Software | Fundamentos de Ingeniería en Software | Fundamentos de Ingeniería en Software |                              |
-|  6-7  |          Sistema Operativos I         |          Sistema Operativos I         |          Sistema Operativos I         |          Sistema Operativos I         |                              |
+|     Hora     |           Lunes          |          Martes          |         Miercoles        |          Jueves          |          Viernes         |
+|:------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|:------------------------:|
+| 13:00- 14:00 | Taller de  Base de Datos | Taller de  Base de Datos | Taller de  Base de Datos | Taller de  Base de Datos |                          |
+| 14:00- 15:00 |  Ingeniería de Software  |  Ingeniería de Software  |  Ingeniería de Software  |  Ingeniería de Software  |  Ingeniería de Software  |
+| 15:00- 16:00 |   Redes de Computadoras  |   Redes de Computadoras  |   Redes de Computadoras  |   Redes de Computadoras  |   Redes de Computadoras  |
+| 16:00- 17:00 |   Sistemas Programables  |   Sistemas Programables  |   Sistemas Programables  |   Sistemas Programables  |                          |
+| 17:00- 18:00 | Lenguajes y  Automatas I | Lenguajes y  Automatas I | Lenguajes y  Automatas I | Lenguajes y  Automatas I | Lenguajes y  Automatas I |
+| 18:00- 19:00 |                          |                          |                          |                          |                          |
+| 19:00- 20:00 |       Taller de SO       |       Taller de SO       |       Taller de SO       |       Taller de SO       |       Taller de SO       |
 
 4. **Contacto:**
 - [https://www.facebook.com/Sr.Melchapo](https://www.facebook.com/Sr.Melchapo)
