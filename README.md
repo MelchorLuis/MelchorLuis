@@ -1,6 +1,6 @@
 # Muy buenas a todos
 
-### Un placer, mi nombre es Luis Angel Melchor Cancino, estudiante activo de la carrera de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana, México :student::mexico:
+### Un placer, mi nombre es Luis Angel Melchor Cancino, estudiante activo de la carrera de Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Tijuana, México :student:
 
 **Orgullosamente originario del municipio de Zihuatanejo, en el estado de Guerrero:ocean:**
 
