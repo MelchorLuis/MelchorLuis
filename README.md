@@ -8,4 +8,4 @@
 **Contacto:**
 - [https://www.facebook.com/Sr.Melchapo](https://www.facebook.com/Sr.Melchapo)
 - [https://www.instagram.com/sr.melchapo/](https://www.instagram.com/sr.melchapo/)
-- Correo: luis.melchor18@tectijuana.edu.mx
+- Correo: luismelchor13.y@gmail.com   /  luis.melchor18@tectijuana.edu.mx
