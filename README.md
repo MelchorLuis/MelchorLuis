@@ -4,7 +4,6 @@
 
 **Orgullosamente originario del municipio de Zihuatanejo, en el estado de Guerrero:ocean:**
 
-**Estoy aprendiendo a usar GitHub, mis primeras impresiones han sido muy buenas, espero seguir así y acoplarme a este herramienta para desarrolladores de software y control de versiones:hugs:**
 
 **Contacto:**
 - [https://www.facebook.com/Sr.Melchapo](https://www.facebook.com/Sr.Melchapo)
